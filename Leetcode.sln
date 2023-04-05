@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2427. 公因子的数目", "2427. 公因子的数目\2427. 公因子的数目.csproj", "{0BFCF6F3-C982-42C4-9F9F-68B359F924FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BFCF6F3-C982-42C4-9F9F-68B359F924FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFCF6F3-C982-42C4-9F9F-68B359F924FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFCF6F3-C982-42C4-9F9F-68B359F924FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFCF6F3-C982-42C4-9F9F-68B359F924FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {329D83EF-22D9-4DEF-A870-C929DB4CFB1C}
+	EndGlobalSection
+EndGlobal
